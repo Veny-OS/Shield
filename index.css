@@ -17,7 +17,7 @@ header {
 }
 .grupoC {
     display: inline-block;
-    animation: AnimCarrossel 20s linear infinite;
+    animation: AnimCarrossel 65s linear infinite;
     img {
         margin: 5px;
         width: 1000px;
